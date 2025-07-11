@@ -16,7 +16,7 @@ print(hello, world)
 ```
 
 ## A Picture of my Dog to test photo functionality
-![img-description](/ace.jpg)
+![img-description](/assets/img/ace.jpg)
 Ace at the lakehouse
 
 ---
